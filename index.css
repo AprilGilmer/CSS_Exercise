@@ -21,8 +21,9 @@ main {
 
 section {
     margin: 24px 0;
-    padding-top: 16px;
+    padding: 16px;
     /*
+    padding-top: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
     padding-right: 16: */
@@ -45,4 +46,5 @@ nav > ul {
     width: 100px;
     /*height: auto; */
     margin: 32px auto;
+    display: block;
 }
